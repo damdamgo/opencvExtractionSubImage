@@ -1,0 +1,17 @@
+﻿  FindBox.cpp
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(26): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(51): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(181): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(212): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(240): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(253): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(266): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(267): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(271): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(272): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(286): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(332): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(332): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(355): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\poste\desktop\opencv\projectinsa\projectinsa\findbox.cpp(384): warning C4018: '<' : incompatibilité signed/unsigned
+  ProjectINSA.vcxproj -> C:\Users\Poste\Desktop\opencv\ProjectINSA\Debug\ProjectINSA.exe
